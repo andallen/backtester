@@ -9,4 +9,4 @@ The ExampleMACrossoverImplementation directory shows a fully functioning example
 
 You can refer to the documentation present in each code file for specific details on the implementation and purpose of each method in the framework.
 
-Notes: I created this non-personal GitHub account after completing the project which is why there is so few commits for this whole project.
+Note: I began using this GitHub account for personal projects after completing this project, so I had to upload the full project to this account. That is why there are so few commits for this project.
