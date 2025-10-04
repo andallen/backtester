@@ -54,6 +54,7 @@ This is a lightweight framework to backtest trading strategies on crypto price d
 - **Strategy Logic** (handles trading signals, risk/capital management, and order execution)
 - **Backtest Runner & Analysis** (handles looping through historical data, logging, maintaing metrics, and analysis of metrics)
 
+You can find the ideas/explanation underlying the code in the 'Backtester Framework Conceptual Explanation.pdf' in this repository, which aggregates a lot of the information that I found useful during my research about algorithmic trading.
 ---
 
 ## Repository layout
