@@ -48,7 +48,7 @@ What happens:
 
 ## Expanded Project Description
 
-This is a lightweight framework to backtest trading strategies on crypto price data. You can find the ideas/explanation underlying the code in the 'Backtester Framework Conceptual Explanation.pdf' in this repository, which aggregates a lot of the information that I found useful during my research about algorithmic trading. 
+This is a framework to backtest trading strategies on crypto price data. You can find the ideas/explanation underlying the code in the 'Backtester Framework Conceptual Explanation.pdf' in this repository, which aggregates a lot of information I found useful during my research on algorithmic trading. 
 
 The functionality is separated into:
 - **Data Pipeline** (Data ingestion from BinanceUS)
