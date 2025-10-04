@@ -1,4 +1,4 @@
-# PythonParrot Backtester
+# Backtester
 
 This is a Python program I wrote that can test trading strategies on past cryptocurrency data. It downloads historical prices from BinanceUS, applies a trading rule (in the example, a moving average crossover), simulates trades using that rule on historical data, and then performs an analysis of the results.
 
