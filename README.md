@@ -8,7 +8,7 @@ This is a Python program I wrote that can test trading strategies on past crypto
 
 1) **Requirements**
    - Python **3.10+**
-   - The instructions are for MacOS/Linux but you can use Windows too, you just have to change the commands.
+   - The instructions are for macOS/Linux but you can use Windows too, you just have to change the commands.
 
 2) **Open the Terminal and Clone and enter the project**
 ```bash
