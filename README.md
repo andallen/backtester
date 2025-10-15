@@ -12,8 +12,8 @@ This is a Python program I wrote that can test trading strategies on past crypto
 
 2) **Open the Terminal and Clone and enter the project**
 ```bash
-git clone <your-local-path> pythonparrot-backtester
-cd pythonparrot-backtester
+git clone https://github.com/andallen/backtester.git
+cd backtester
 ```
 
 3) **Create a virtual environment and install dependencies**
