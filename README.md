@@ -46,7 +46,7 @@ What happens:
 
 ---
 
-## Expanded Project Description
+## Expanded Description
 
 This is a framework to backtest trading strategies on crypto price data. You can find the ideas/explanation underlying the code in the 'Backtester Framework Conceptual Explanation.pdf' in this repository, which aggregates a lot of information I found useful during my research on algorithmic trading. 
 
